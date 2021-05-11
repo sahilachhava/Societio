@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Societio</string>
+    <string name="facebook_app_id">495198764520439</string>
+    <string name="fb_login_protocol_scheme">fb495198764520439</string>
+</resources>
